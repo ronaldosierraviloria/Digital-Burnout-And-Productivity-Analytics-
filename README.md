@@ -23,7 +23,7 @@ de el cansancio digital y analizar la productividad de esta mediante el uso de d
 ---
 ## Enlace al Tablero de Power BI
 
-**Enlace Directo:** 
+**Enlace Directo:** https://app.powerbi.com/view?r=eyJrIjoiNTc4YjU4OWMtM2M1MS00ZWM2LWFlZDctNzhmMGYwZGQ1NTZhIiwidCI6ImJlZjU3Y2ZhLWY1MzItNDU4Ny05ZTY4LWJhNDEyYTU1OTY0YiIsImMiOjR9
 ---
 ## Visualizaciones
 * **Vista Número 1**
